@@ -61,11 +61,13 @@ Body format (x-www-form-urlencoded):
 ## 📁 Project Structure
 
 '''
-CRUD/
-├── api.js # Main Express server
-├── node_modules/ # Dependencies
-├── package.json # Project config
-└── package-lock.json
+
+    CRUD/
+    ├── api.js # Main Express server
+    ├── node_modules/ # Dependencies
+    ├── package.json # Project config
+    └── package-lock.json
+
 '''
 
 ## 📌Future Improvements
