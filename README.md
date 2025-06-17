@@ -72,6 +72,8 @@ csharp
 Copy
 Edit
 
+## Folder Structure
+
 '''
 CRUD/
 ├── api.js # Main Express server
@@ -79,6 +81,8 @@ CRUD/
 ├── package.json # Project config
 └── package-lock.json
 📌 Future Improvements
+
+'''
 Add PUT support to update existing entries
 
 Connect to MongoDB or another database
