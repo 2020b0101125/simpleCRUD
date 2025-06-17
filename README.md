@@ -1,4 +1,5 @@
-🧠 Simple CRUD API with Express
+## 🧠 Simple CRUD API with Express
+
 A lightweight and easy-to-understand CRUD API built using Express.js and body-parser. This project stores in-memory data (no database), making it perfect for learning how basic HTTP methods work.
 
 ## ✨ Features
